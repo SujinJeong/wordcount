@@ -1,0 +1,3 @@
+com/mapreduce/wordcount/WordCountDriver.class
+com/mapreduce/wordcount/WordCountReducer.class
+com/mapreduce/wordcount/WordCountMapper.class
